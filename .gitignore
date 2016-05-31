@@ -1,0 +1,44 @@
+BDL.xcodeproj/xcuserdata
+BDL.xcworkspace/xcshareddata/BDL.xccheckout
+BDL.xcworkspace/xcuserdata
+MeMyselfAndI.xcworkspace/xcuserdata
+MeMyselfAndI.xcworkspace/xcuserdata/sen.xcuserdatad/UserInterfaceState.xcuserstate
+
+/Podfile.lock
+/Pods
+# IntelliJ Idea
+**/*.iml
+**/.idea
+
+# Eclipse
+**/.classpath
+**/.idea
+**/.project
+**/.metadata
+**/.settings
+**/*~
+
+# Java
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+**/hs_err_pid*
+
+# Maven
+**/target
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+**/.mvn/timing.properties
+*.mobileprovision
+*.zip
+*.ipa
+fastlane/screenshots
+fastlane/report.xml
